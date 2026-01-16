@@ -5,7 +5,8 @@ STORK MEME &amp; ART FILES
  ┣ 📂 memes
  ┣ 📂 docs
  ┗ 📄 README.md
-#Stork Community Repo 🕊️
+#Stork Community Repo 🕊️![photo_2026-01-16_23-50-14](https://github.com/user-attachments/assets/36248644-eaf9-4c7e-9250-366c5b9cdd25)
+
 
 This repository contains:
 - Stork memes
