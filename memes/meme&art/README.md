@@ -5,7 +5,7 @@ STORK MEME &amp; ART FILES
  ┣ 📂 memes
  ┣ 📂 docs
  ┗ 📄 README.md
-#Stork Community Repo 🕊️![photo_2026-01-16_23-50-14](https://github.com/user-attachments/assets/36248644-eaf9-4c7e-9250-366c5b9cdd25)
+#Stork Community Repo 🕊️
 
 
 This repository contains:
@@ -14,6 +14,8 @@ This repository contains:
 - Community experiments
 
 Built by the community, for the community 🚀
+
+
 ![photo_2026-01-16_23-23-51](https://github.com/user-attachments/assets/c2c359e9-602f-4423-9304-04140c0f7b2e)
 ![photo_2026-01-16_23-41-12](https://github.com/user-attachments/assets/a31ae7fa-8c4a-4f9a-bb6d-7c383c541238)
 ![photo_2026-01-16_23-45-24](https://github.com/user-attachments/assets/9e0a8811-f6c6-4a94-a604-a8fff29a124d)
@@ -33,4 +35,4 @@ _23-44-52](https://github.com/user-attachments/assets/a0477164-283d-496e-a4cf-b3
 ![photo_2026-01-16_23-44-28](https://github.com/user-attachments/assets/c5ea605e-8f52-45d1-ac6c-63417433ffae)
 ![photo_2026-01-16_23-44-25](https://github.com/user-attachments/assets/9ba5877a-6e9f-4d96-bfba-aba204cad673)
 ![photo_2026-01-16_23-44-22](https://github.com/user-attachments/assets/f06f9234-8fe2-4979-b71f-b478dea0db9e)![photo_2026-01-16_23-44-19](https://github.com/user-attachments/assets/2a97a6e4-e097-4cb6-a504-687648b90272)
-
+![photo_2026-01-16_23-50-14](https://github.com/user-attachments/assets/36248644-eaf9-4c7e-9250-366c5b9cdd25)
