@@ -1,5 +1,10 @@
 # STORK-MEME-SRT
 STORK MEME &amp; ART FILES
+📦 stork-meme
+ ┣ 📂 images
+ ┣ 📂 memes
+ ┣ 📂 docs
+ ┗ 📄 README.md
 #Stork Community Repo 🕊️
 
 This repository contains:
